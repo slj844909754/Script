@@ -38,7 +38,7 @@ var DualKey = ''; //如需双账号签到,此处单引号内填写抓取的"账�
 BoxJs订阅地址: https://raw.githubusercontent.com/NobyDa/Script/master/NobyDa_BoxJs.json
 
 *************************
-【 配置双京东账号签到说明 】 : 
+【 配置双京东账号签到说明 
 *************************
 
 正确配置QX、Surge、Loon后, 并使用此脚本获取"账号1"Cookie成功后, 请勿点击退出账号(可能会导致Cookie失效), 需清除浏览器资料或更换浏览器登录"账号2"获取即可.
