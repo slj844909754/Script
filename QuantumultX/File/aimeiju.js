@@ -1,7 +1,6 @@
 /*
 爱美剧 unlock vip（官网：xmj.app）
-Made by huihui
-QX : 
+Made by huih
 ^https?:\/\/api.bjxkhc.com\/index\.php\/app\/ios\/(vod\/show|(user|vod|topic|type)\/index) url script-response-body https://raw.githubusercontent.com/NobyDa/Script/master/QuantumultX/File/aimeiju.js
 
 Surge4：
